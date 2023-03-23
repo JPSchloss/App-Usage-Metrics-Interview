@@ -1,6 +1,6 @@
 # Exploring Application Usage Technical Interview
 
-![Example of Initial Data Work](DataExplore.gif)
+![Example of Initial Data Work](DataFull.gif)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
