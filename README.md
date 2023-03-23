@@ -1,5 +1,7 @@
 # Exploring Application Usage Technical Interview
 
+![Example of Initial Data Work](DataExplore.gif)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This repository contains sample code from a past interview. It stems from a data challenge that provided data open to exploration with the main goal of finding insights and extracting some business value. I completed this work in only a few days with less than 14 hours of work spent on the analyses. This work was very highly commended and I wanted to share it to provide a resource for those engaging in technical interviews. 
