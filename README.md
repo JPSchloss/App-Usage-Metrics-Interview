@@ -1,4 +1,4 @@
-# Exploring Application Usage Technical Interview
+# Exploring Application Usage - Technical Interview
 
 ![Example of Initial Data Work](DataExplore.gif)
 
